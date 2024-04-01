@@ -6,13 +6,13 @@ healthcare personnel that were involved in the trial. This allows the users to u
 Users are required to register and login to a user database in order to use the application. While users cannot edit any of the curated information, this requirement ensures the site is not overwelmed with traffic 
 ensuring fast connections and better ease of use.
 
-![image](https://github.com/NicoleK286/Clinical-Trial-Search-Suite/assets/113560469/38d23d5c-8519-41b7-9051-ac5b641d17e3)
+![image](https://github.com/NicoleK286/Clinical-Trial-Search-Suite/assets/113560469/f7324525-0320-469a-9a3b-e79cf92932ed)
 
 
 **SNAPSHOTS OF SITE**
 ![image](https://github.com/NicoleK286/Clinical-Trial-Search-Suite/assets/113560469/e1ccc2ea-63c2-4a87-8669-2220e4303f04)
 
-![image](https://github.com/NicoleK286/Clinical-Trial-Search-Suite/assets/113560469/dd58dd23-170d-44fd-882c-368f520d20ea)
+![image](https://github.com/NicoleK286/Clinical-Trial-Search-Suite/assets/113560469/16f147df-e79c-4a4e-a376-24abc1558f94)
 
 
 
